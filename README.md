@@ -57,6 +57,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
+- [hepa](https://github.com/vcarl/hepa): Modular data filters through context.
 
 ### Misc
 
